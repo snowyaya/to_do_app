@@ -1,5 +1,7 @@
 # ToDoApp
 
+![image](https://user-images.githubusercontent.com/75382121/167984199-91d52668-7df5-4021-a15c-fb7b46a425fe.png)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
